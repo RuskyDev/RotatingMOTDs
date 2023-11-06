@@ -1,0 +1,4 @@
+name: RotatingMOTDs
+version: '1.0-SNAPSHOT'
+main: com.ruskydev.rotatingmotds.RotatingMOTDs
+api-version: '1.20'
